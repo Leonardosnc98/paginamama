@@ -1,0 +1,20 @@
+body
+{
+    background-color:navy;
+}
+
+#logoBless
+{
+    width: 145px; 
+    height: 175px;
+    margin-left: 10px;
+    margin-right: 100px;
+}
+
+#fotoPerfil
+{
+    width: 140px; 
+    height: 140px;
+    border-radius: 150px;
+    margin-left:150px;
+}
